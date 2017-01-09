@@ -1,0 +1,25 @@
+{
+  "name": "repository-test",
+  "version": "1.0.0",
+  "description": "abcd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lleellee0@github.com/lleellee0/repository-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Foo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleellee0/repository-test/issues"
+  },
+  "homepage": "https://github.com/lleellee0/repository-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
